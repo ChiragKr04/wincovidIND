@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674234237922",
+    "project_id": "meds-info-1f6ee",
+    "storage_bucket": "meds-info-1f6ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674234237922:android:341707e7c520418dae2fbb",
+        "android_client_info": {
+          "package_name": "com.wincovidInd.wincovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674234237922-grgp7pldkd56bt1s78hmtsaujb6jo5su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wincovidInd.wincovid",
+            "certificate_hash": "7e9a7a95f02bbf30b2dedeb251aff279ba2eb1d6"
+          }
+        },
+        {
+          "client_id": "674234237922-adkdaf2t58g93fp4n4j97jbejvgd9q4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4u_7nD-JIwJB2-jlz2dFpHDOS0PrLb5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674234237922-adkdaf2t58g93fp4n4j97jbejvgd9q4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
