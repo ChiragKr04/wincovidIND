@@ -1,4 +1,4 @@
-# flutter_app_c
+# WinCovid
 
 A new Flutter application.
 
